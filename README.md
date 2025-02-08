@@ -17,6 +17,4 @@ This is my *first project using Power BI and Excel*, analyzing SN Corporation’
 2️⃣ Explore the visualizations and filters.  
 3️⃣ Analyze key trends in the dataset.  
 
-### *🔗 LinkedIn Post:* [Insert LinkedIn Link]  
-
 #PowerBI #Excel #DataAnalytics #FirstProject
